@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995439578069",
+    "firebase_url": "https://time-tracker-mad-maju-50b81.firebaseio.com",
+    "project_id": "time-tracker-mad-maju-50b81",
+    "storage_bucket": "time-tracker-mad-maju-50b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995439578069:android:3594ac0f3a8d8da31c0b5c",
+        "android_client_info": {
+          "package_name": "MobileApplicationDevelopment.time_tracker_app_mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995439578069-i51jmcob89h2376t1hac3q04m5tgl51g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "MobileApplicationDevelopment.time_tracker_app_mad",
+            "certificate_hash": "5bd2e00f8d5eed27f1a9b7ea55016fdbea491ea0"
+          }
+        },
+        {
+          "client_id": "995439578069-i4g012lud4496q3m18mtrgm45gmjt1do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI264lQ9fe9wucigcMTclWjSvVo3nD-1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995439578069-i4g012lud4496q3m18mtrgm45gmjt1do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
